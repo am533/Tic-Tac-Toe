@@ -12,10 +12,10 @@ import javafx.scene.paint.Color;
 import javafx.util.Duration;
 
 /**
- * This class contains utility methods for handling user interaction with the
- * user interface (UI) Tic-Tac-Toe board. It handles score keeping, turn
- * switching, player moves, notifying the user of a win or tie, and updating the
- * board with the computer's based off of tiles on the board the user(s) click.
+ * This class contains utility methods for handling user interaction with the UI
+ * Tic-Tac-Toe board, which is clicking the tiles. It handles score keeping,
+ * turn switching, notifying the user of a win or tie, and updating the board
+ * with the player symbols whenever appropriate.
  */
 public class UIBoardActions {
 	/**

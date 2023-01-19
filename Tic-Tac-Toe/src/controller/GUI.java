@@ -25,8 +25,8 @@ import view.UIElements;
 
 /**
  * This class contains all the necessary methods to create a graphical user
- * interface for a Tic Tac Toe game. It has methods for creating the home scene,
- * single player prompt scene, multi player prompt scene, and board scene. Each
+ * interface for a Tic-Tac-Toe game. It has methods for creating the home scene,
+ * single-player prompt scene, multi-player prompt scene, and board scene. Each
  * scene contains various UI elements such as labels, buttons, and combo boxes
  * that allow the user to interact with the game. The GUI class also contains
  * several helper methods from other classes in the package that are used by the
