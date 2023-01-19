@@ -223,7 +223,7 @@ public class UIElements {
 	}
 
 	/**
-	 * Creates an alert to display the end of game result.
+	 * Create an alert to display the end of game result.
 	 * 
 	 * @param result The result of the game, whether it was a win, loss, or draw.
 	 * @return an alert object that displays the end of game result and prompts the
