@@ -8,6 +8,6 @@
  * user interface (UI) elements and CSS styling defined in the view package.
  * Overall, this package is responsible for providing the game flow and control
  * needed for the GUI of the game to function properly. Start the game by running
- * the GUI class.
+ * the GUI.java file.
  */
 package controller;
