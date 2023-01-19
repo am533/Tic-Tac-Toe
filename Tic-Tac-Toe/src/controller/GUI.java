@@ -19,9 +19,7 @@ import javafx.stage.Stage;
 import javafx.stage.StageStyle;
 
 import model.*;
-import view.CSSStyles;
-import view.UIConstants;
-import view.UIElements;
+import view.*;
 
 /**
  * This class contains all the necessary methods to create a graphical user
