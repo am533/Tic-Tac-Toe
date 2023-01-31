@@ -62,7 +62,7 @@ public enum GameState {
 						return won;
 					}
 				}
-				// check check for diagonal win from top right whenever loop is
+				// check for diagonal win from top right whenever loop is
 				// at row one and column three
 				if (row == 0 && col == 2 && !board.getTileAt(row, col).isEmpty()) {
 					// if tile equals middle tile and bottom left tile, player has won
