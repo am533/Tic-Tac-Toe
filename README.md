@@ -7,6 +7,8 @@ Java-based Tic-Tac-Toe game which includes a graphical user interface (GUI) buil
 * User first: if it’s a multi-player game, the user can choose whether or not they want to go first or not
 * Graphical user interface (GUI) built with JavaFX
 * Score tracking for both players
+## Getting Started
+TODO: not yet implemented
 ## How To Play
 * Run the GUI.java file
 * Once the game is launched, you will be presented with the home screen.
