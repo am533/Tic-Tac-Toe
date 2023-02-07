@@ -8,7 +8,7 @@ Java-based Tic-Tac-Toe game which includes a graphical user interface (GUI) buil
 * Graphical user interface (GUI) built with JavaFX
 * Score tracking for both players
 ## Getting Started
-TODO: not yet implemented
+TODO: give instructions to download and setup game to play,
 ## How To Play
 * Run the GUI.java file
 * Once the game is launched, you will be presented with the home screen.
@@ -21,3 +21,20 @@ TODO: not yet implemented
 * The objective of the game is to get three of your symbols in a row (horizontally, vertically, or diagonally).
 * If a player wins, a message will be displayed on the screen and their score will be incremented.
 * You can play again by hitting the "Play Again" button, or return to the home screen by hitting the "Home" button.
+## Screenshots
+TODO: show screenshots of the game
+## API documentation
+* Javadoc documentation is included.
+## Built With
+* Java - Programming language used
+* JavaFX - The framework used for building the GUI
+## Author
+* Agus Mehta
+## Future Improvements
+* Adding a computer player with different difficulty levels for single-player mode
+* Making the algorithm for the computer player smarter and more efficient.
+* Adding sound effects.
+## Acknowledgments
+* JavaFX documentation - for reference on creating and styling the GUI elements
+## License
+* This project is licensed under the MIT License - see the LICENSE.md file for details.
