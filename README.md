@@ -21,8 +21,8 @@ TODO: give instructions to download and setup game to play,
 * The objective of the game is to get three of your symbols in a row (horizontally, vertically, or diagonally).
 * If a player wins, a message will be displayed on the screen and their score will be incremented.
 * You can play again by hitting the "Play Again" button, or return to the home screen by hitting the "Home" button.
-## Screenshots
-TODO: show screenshots of the game
+## Gameplay
+[Click here to watch the gameplay](https://youtu.be/sBZ2909FuEo)
 ## API documentation
 * Javadoc documentation is included.
 ## Built With
