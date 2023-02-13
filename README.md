@@ -16,7 +16,7 @@ TODO: give instructions to download and setup game to play
 * If you select single-player mode, you will be prompted to select the symbol (X or O) you want to play with and whether or not you want to make the first move.
 * If you select multi-player mode, both players will be prompted to select their symbols and the order of play.
 * Once you have made your selections and hit the "Next" button, the game board will be displayed. If one or more of the prompts isn’t filled, an error message will display, telling you which fields you need to fill out.
-* In single-player mode, the computer will make its move after you make yours, and will make the first move if you choose to not go first. 
+* In single-player mode, the computer will make its move after you make yours, or it will make the first move if you choose to not go first. 
 * In multi-player mode, it is up to you and your opponent to take turns making moves.
 * To make a move, simply click on the desired tile on the game board. The tile will be marked with your symbol (X or O).
 * The objective of the game is to get three of your symbols in a row (horizontally, vertically, or diagonally).
